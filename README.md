@@ -95,6 +95,8 @@ Through this project, I learned how to:
 
 ## Outcome
 
+This project introduced me to AI-assisted development tools and modern workflows. While some of these tools were new to me, I was able to research, troubleshoot, and complete the setup successfully. The experience reinforced the importance of independent learning, documentation, and problem-solving when working with unfamiliar technologies.
+
 Successfully completed installation and setup of:
 
 - Cursor IDE
