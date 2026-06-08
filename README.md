@@ -104,3 +104,16 @@ Successfully completed installation and setup of:
 - Codex
 
 All required tools were installed and verified successfully.
+
+
+
+
+
+
+
+
+## Personal Reflection
+
+This project was my first hands-on experience configuring AI-assisted development tools in a professional workflow. Throughout the process I encountered installation issues, security prompts, and configuration challenges that required independent research and troubleshooting.
+
+Completing this project improved my understanding of AI-powered development environments, GitHub workflows, and the importance of clear technical documentation. It also reinforced the value of adaptability and continuous learning when working with unfamiliar technologies.
