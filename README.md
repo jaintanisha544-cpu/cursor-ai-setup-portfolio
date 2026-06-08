@@ -105,11 +105,34 @@ Successfully completed installation and setup of:
 
 All required tools were installed and verified successfully.
 
+# Screenshots
 
+## Installing Cursor IDE
+![Installing Cursor](screenshots/cursor-installation.png.png)
 
+## Download Issue (.crdownload File)
+![Download Issue](screenshots/cursor-download-issue.png.png)
 
+## Windows Defender SmartScreen Warning
+![Windows Security Warning](screenshots/windows-security-warning.png.png)
 
+## Claude Code Search Results
+![Claude Search Results](screenshots/claude-code-search.png.png)
 
+## Claude Code Successfully Installed
+![Claude Installed](screenshots/claude-code-installed.png.png)
+
+## Claude Code Interface
+![Claude Interface](screenshots/claude-code-interface.png.png)
+
+## Codex Successfully Installed
+![Codex Installed](screenshots/codex-installed.png.png)
+
+## Cursor Workspace
+![Cursor Workspace](screenshots/cursor-workspace.png.png)
+
+## Final Repository
+![Final Repository](screenshots/final-repository.png.png)
 
 
 ## Personal Reflection
