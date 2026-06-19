@@ -18,3 +18,9 @@ LinkedIn Organic Content Strategy for B2B SaaS
 | Gaetano DiNardi | Marketing Operator | B2B SaaS growth |
 | Tas Bober | The Scroll Lab | SaaS content strategy |
 | Kyle Poyar | Growth Unhinged | SaaS growth and content insights |
+
+## Research Objective
+
+The goal of this project is to identify how leading B2B SaaS marketers use LinkedIn organic content to build audience, generate demand, establish thought leadership, and drive business growth.
+
+The research focuses on extracting repeatable frameworks, content patterns, posting strategies, and audience engagement techniques that can be applied to B2B SaaS companies.
