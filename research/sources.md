@@ -6,15 +6,15 @@ LinkedIn Organic Content Strategy for B2B SaaS
 
 ## Experts
 
-| Expert | Platform | Why Selected |
+| Expert | Company / Brand | Why Selected |
 |----------|----------|----------|
-| Justin Welsh | LinkedIn | Personal branding and audience growth |
-| Amanda Natividad | LinkedIn | Content-led growth expert |
-| Dave Gerhardt | LinkedIn | B2B demand generation leader |
-| Gaetano DiNardi | LinkedIn | SaaS SEO and content strategy |
-| Ross Simmonds | LinkedIn | Content distribution specialist |
-| Devin Reed | LinkedIn | B2B SaaS content marketing |
-| Ashley Faus | LinkedIn | Product marketing and content |
-| Chris Walker | LinkedIn | Demand generation expert |
-| Tas Bober | LinkedIn | SaaS marketing strategist |
-| Megan Bowen | LinkedIn | B2B growth leadership |
+| Justin Welsh | The Saturday Solopreneur | LinkedIn growth and personal branding |
+| Amanda Natividad | SparkToro | Zero-click content and audience growth |
+| Dave Gerhardt | Exit Five | B2B content and demand generation |
+| Ross Simmonds | Foundation Marketing | Content distribution specialist |
+| Devin Reed | The Reeder | B2B SaaS content systems |
+| Chris Walker | Refine Labs | Demand generation and LinkedIn content |
+| Ashley Faus | Atlassian | Product-led content marketing |
+| Gaetano DiNardi | Marketing Operator | B2B SaaS growth |
+| Tas Bober | The Scroll Lab | SaaS content strategy |
+| Kyle Poyar | Growth Unhinged | SaaS growth and content insights |
