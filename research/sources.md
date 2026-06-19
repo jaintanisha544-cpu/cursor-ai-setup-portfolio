@@ -6,18 +6,19 @@ LinkedIn Organic Content Strategy for B2B SaaS
 
 ## Experts
 
-| Expert | Company / Brand | Why Selected |
-|----------|----------|----------|
-| Justin Welsh | The Saturday Solopreneur | LinkedIn growth and personal branding |
-| Amanda Natividad | SparkToro | Zero-click content and audience growth |
-| Dave Gerhardt | Exit Five | B2B content and demand generation |
-| Ross Simmonds | Foundation Marketing | Content distribution specialist |
-| Devin Reed | The Reeder | B2B SaaS content systems |
-| Chris Walker | Refine Labs | Demand generation and LinkedIn content |
-| Ashley Faus | Atlassian | Product-led content marketing |
-| Gaetano DiNardi | Marketing Operator | B2B SaaS growth |
-| Tas Bober | The Scroll Lab | SaaS content strategy |
-| Kyle Poyar | Growth Unhinged | SaaS growth and content insights |
+| Expert           | Company / Brand          | Why Selected                                                                                  |
+| ---------------- | ------------------------ | --------------------------------------------------------------------------------------------- |
+| Justin Welsh     | The Saturday Solopreneur | One of the most successful LinkedIn creators; known for audience building and content systems |
+| Amanda Natividad | SparkToro                | Leading voice on zero-click content and audience-first marketing                              |
+| Dave Gerhardt    | Exit Five                | B2B content marketing and demand generation specialist                                        |
+| Ross Simmonds    | Foundation Marketing     | Content distribution and content amplification expert                                         |
+| Devin Reed       | The Reeder               | SaaS content systems and LinkedIn thought leadership                                          |
+| Chris Walker     | Refine Labs              | Demand generation and modern B2B growth                                                       |
+| Ashley Faus      | Atlassian                | Product marketing and community-driven content                                                |
+| Gaetano DiNardi  | Marketing Operator       | B2B SaaS growth and SEO strategy                                                              |
+| Tas Bober        | The Scroll Lab           | SaaS content strategy and LinkedIn content                                                    |
+| Kyle Poyar       | Growth Unhinged          | Product-led growth and SaaS growth insights                                                   |
+
 
 ## Research Objective
 
